@@ -1,0 +1,18 @@
+providers:
+  - node
+  - nixpacks
+
+build:
+  node_version: 18
+  phases:
+    setup:
+      - node --version
+    install:
+      - npm install
+    build:
+      - npm run build
+    start:
+      - npm start
+
+start:
+  cmd: node ./node_modules/.next/server/pages/index.js
