@@ -16,7 +16,7 @@ const IsrPage: NextPage<IsrPageProps> = ({ timestamp, buildId }) => {
                             ISR Demo
                         </h1>
                         <p className="text-slate-400">
-                            Impulsum Cloud ISR test
+                            Impulsum Nice Cloud ISR test
                         </p>
                     </div>
 
