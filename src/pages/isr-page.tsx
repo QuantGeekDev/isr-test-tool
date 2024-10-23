@@ -16,7 +16,7 @@ const IsrPage: NextPage<IsrPageProps> = ({ timestamp, buildId }) => {
                             ISR Demo
                         </h1>
                         <p className="text-slate-400">
-                            Impulsum Cloud ISR test
+                            Impulsum Nice Cloud ISR test
                         </p>
                     </div>
 
@@ -34,7 +34,7 @@ const IsrPage: NextPage<IsrPageProps> = ({ timestamp, buildId }) => {
 
                     <div className="grid md:grid-cols-2 gap-6">
                         <div className="bg-slate-800/50 rounded-lg p-6 border border-slate-700">
-                            <h3 className="text-lg font-semibold mb-2">Revalidation Period</h3>
+                            <h3 className="text-lg font-semibold mb-2">Reeeeevalidation Period</h3>
                             <p className="text-slate-400">
                                 This page regenerates every <span className="text-blue-400 font-semibold">10 seconds</span>
                             </p>
